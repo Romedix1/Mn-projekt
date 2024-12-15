@@ -1,0 +1,13 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie23.jpg",
+      "objects": [
+        {
+          "label": "Parking dla niepelnosprawnych",
+          "bbox": [917, 592, 969, 676]
+        }
+      ]
+    }
+  ]
+}

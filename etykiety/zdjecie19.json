@@ -1,0 +1,13 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie19.jpg",
+      "objects": [
+        {
+          "label": "Znak kierunkowy",
+          "bbox": [963, 483, 1117, 612]
+        }
+      ]
+    }
+  ]
+}

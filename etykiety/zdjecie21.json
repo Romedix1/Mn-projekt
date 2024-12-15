@@ -1,0 +1,37 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie21.jpg",
+      "objects": [
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [881, 647, 906, 675]
+        },
+        {
+          "label": "Przejscie dla pieszych ostrzegawczy",
+          "bbox": [880, 669, 907, 692]
+        },
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [915, 675, 941, 698]
+        },
+        {
+          "label": "Przejazd tramwajowy",
+          "bbox": [915, 675, 941, 698]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1221, 642, 1254, 670]
+        },
+        {
+          "label": "Przejscie dla pieszych ostrzegawczy",
+          "bbox": [1222, 666, 1247, 687]
+        },
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [1271, 691, 1294, 716]
+        }
+      ]
+    }
+  ]
+}

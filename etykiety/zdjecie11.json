@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie11.jpg",
+      "objects": [
+        {
+          "label": "Zakaz wjazdu",
+          "bbox": [1415, 645, 1448, 690]
+        },
+        {
+          "label": "Ograniczenie predkosci",
+          "bbox": [1155, 716, 1177, 742]
+        },
+        {
+          "label": "Roboty drogowe",
+          "bbox": [1151, 693, 1179, 719]
+        },
+        {
+          "label": "Przejscie dla pieszych z droga rowerowa",
+          "bbox": [1279, 670, 1309, 697]
+        }
+      ]
+    }
+  ]
+}

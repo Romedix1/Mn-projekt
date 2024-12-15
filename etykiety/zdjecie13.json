@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie13.jpg",
+      "objects": [
+        {
+          "label": "Znak kierunkowy",
+          "bbox": [1402, 534, 1503, 664]
+        },
+        {
+          "label": "Zakaz skretu w prawo",
+          "bbox": [1228, 683, 1256, 715]
+        },
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1233, 670, 1251, 689]
+        },
+        {
+          "label": "Znak uzupelniajacy",
+          "bbox": [95, 399, 257, 547]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [922, 690, 941, 710]
+        }
+      ]
+    }
+  ]
+}

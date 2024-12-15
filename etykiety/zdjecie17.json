@@ -1,0 +1,33 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie17.jpg",
+      "objects": [
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [1227, 466, 1313, 535]
+        },
+        {
+          "label": "Koniec ograniczenia predkosci",
+          "bbox": [1233, 531, 1306, 602]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1238, 589, 1309, 660]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1093, 637, 1124, 670]
+        },
+        {
+          "label": "Ograniczenie predkosci",
+          "bbox": [998, 646, 1024, 668]
+        },
+        {
+          "label": "Zakaz postoju",
+          "bbox": [998, 646, 1024, 668]
+        }
+      ]
+    }
+  ]
+}

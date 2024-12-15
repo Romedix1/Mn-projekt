@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie14.jpg",
+      "objects": [
+        {
+          "label": "Nakaz jazdy po prawej stronie znaku",
+          "bbox": [172, 666, 269, 782]
+        },
+        {
+          "label": "Zakaz wjazdu dla ciezarowek",
+          "bbox": [1306, 419, 1401, 508]
+        },
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [984, 734, 1017, 772]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1322, 542, 1411, 637]
+        }
+      ]
+    }
+  ]
+}

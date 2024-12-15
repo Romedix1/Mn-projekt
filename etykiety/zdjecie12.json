@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie12.jpg",
+      "objects": [
+        {
+          "label": "Zakaz wjazdu",
+          "bbox": [751, 664, 782, 695]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [929, 661, 958, 694]
+        },
+        {
+          "label": "Nakaz jazdy prosto",
+          "bbox": [1248, 676, 1271, 704]
+        },
+        {
+          "label": "Nakaz jazdy po prawej stronie znaku",
+          "bbox": [621, 637, 676, 693]
+        }
+      ]
+    }
+  ]
+}
