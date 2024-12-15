@@ -1,0 +1,22 @@
+{
+    "images": [
+      {
+        "image_id": "zdjecie7.jpg",
+        "objects": [
+          {
+            "label": "Przejscie dla pieszych",
+            "bbox": [1074, 648, 1147, 720]
+          },
+          {
+            "label": "Strefa zamieszkania",
+            "bbox": [92, 561, 143, 615]
+          },
+          {
+            "label": "Parking",
+            "bbox": [916, 700, 941, 735]
+          }
+        ]
+      }
+    ]
+  }
+  

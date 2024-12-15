@@ -1,0 +1,18 @@
+{
+    "images": [
+      {
+        "image_id": "zdjecie1.jpg",
+        "objects": [
+          {
+            "label": "Nakaz jazdy prosto",
+            "bbox": [1040, 612, 1090, 664]
+          },
+          {
+            "label": "Strefa ruchu",
+            "bbox": [1037, 663, 1090, 692]
+          }
+        ]
+      }
+    ]
+  }
+  
