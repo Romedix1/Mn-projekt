@@ -1,7 +1,7 @@
 import cv2
 
 if __name__ == "__main__":
-    img_path = "./zdjecia/zdjecie25.png"
+    img_path = "./zdjecia/zdjecie56.png"
     img = cv2.imread(img_path)
     
     resized_img = cv2.resize(img, (1920, 1080))

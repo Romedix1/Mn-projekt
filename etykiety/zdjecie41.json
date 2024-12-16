@@ -1,0 +1,13 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie41.jpg",
+      "objects": [
+        {
+          "label": "Zakaz wjazdu",
+          "bbox": [1263, 586, 1307, 643]
+        }
+      ]
+    }
+  ]
+}

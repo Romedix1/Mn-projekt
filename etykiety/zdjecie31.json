@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie31.jpg",
+      "objects": [
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1178, 604, 1229, 657]
+        },
+        {
+          "label": "Przejscie dla pieszych ostrzegawczy",
+          "bbox": [1183, 653, 1223, 693]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [278, 646, 306, 674]
+        }
+      ]
+    }
+  ]
+}

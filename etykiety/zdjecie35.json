@@ -1,0 +1,22 @@
+{
+    "images": [
+      {
+        "image_id": "zdjecie35.jpg",
+        "objects": [
+          {
+            "label": "Zakaz skretu w prawo",
+            "bbox": [963, 644, 982, 661]
+          },
+          {
+            "label": "Droga z pierwszenstwem",
+            "bbox": [962, 615, 986, 645]
+          },
+          {
+            "label": "Przejscie dla pieszych",
+            "bbox": [933, 634, 959, 664]
+          }
+        ]
+      }
+    ]
+  }
+  

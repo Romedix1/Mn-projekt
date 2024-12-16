@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie47.jpg",
+      "objects": [
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [467, 604, 494, 648]
+        },
+        {
+          "label": "Ograniczenie predkosci",
+          "bbox": [216, 542, 250, 575]
+        }
+      ]
+    }
+  ]
+}

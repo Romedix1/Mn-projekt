@@ -1,0 +1,13 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie56.jpg",
+      "objects": [
+        {
+          "label": "Uwaga jelenie",
+          "bbox": [1033, 672, 1105, 730]
+        }
+      ]
+    }
+  ]
+}

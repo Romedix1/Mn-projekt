@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie45.jpg",
+      "objects": [
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1168, 628, 1204, 663]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1151, 656, 1171, 674]
+        },
+        {
+          "label": "Przejscie dla pieszych ostrzegawczy",
+          "bbox": [1156, 671, 1170, 691]
+        },
+        {
+          "label": "Tabliczka z przebiegiem drogi z pierwszenstwem",
+          "bbox": [1173, 659, 1198, 691]
+        }
+      ]
+    }
+  ]
+}

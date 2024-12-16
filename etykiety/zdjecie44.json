@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie44.jpg",
+      "objects": [
+        {
+          "label": "Zakaz skretu w lewo",
+          "bbox": [1276, 631, 1302, 665]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1278, 659, 1299, 683]
+        },
+        {
+          "label": "Przejscie dla pieszych ostrzegawczy",
+          "bbox": [1279, 676, 1298, 698]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [961, 643, 982, 668]
+        },
+        {
+          "label": "Przejscie dla pieszych ostrzegawczy",
+          "bbox": [959, 667, 982, 685]
+        }
+      ]
+    }
+  ]
+}

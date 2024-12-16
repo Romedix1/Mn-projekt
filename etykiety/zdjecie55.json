@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie55.jpg",
+      "objects": [
+        {
+          "label": "Zakaz wjazdu",
+          "bbox": [405, 571, 464, 629]
+        },
+        {
+          "label": "Nakaz jazdy w prawo",
+          "bbox": [739, 592, 761, 636]
+        },
+        {
+          "label": "Nakaz jazdy prosto",
+          "bbox": [1363, 633, 1389, 666]
+        }
+      ]
+    }
+  ]
+}

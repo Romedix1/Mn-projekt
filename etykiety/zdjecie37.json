@@ -1,0 +1,18 @@
+{
+    "images": [
+      {
+        "image_id": "zdjecie37.jpg",
+        "objects": [
+          {
+            "label": "Kierunki pasow",
+            "bbox": [983, 726, 1064, 767]
+          },
+          {
+            "label": "Zakaz postoju",
+            "bbox": [979, 681, 1023, 726]
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,45 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie32.jpg",
+      "objects": [
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [35, 482, 80, 544]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [35, 531, 61, 586]
+        },
+        {
+          "label": "Nakaz jazdy po prawej stronie znaku",
+          "bbox": [429, 745, 455, 775]
+        },
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [1076, 574, 1145, 649]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1078, 644, 1141, 699]
+        },
+        {
+          "label": "Nakaz jazdy prosto",
+          "bbox": [1126, 694, 1143, 716]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1122, 717, 1146, 737]
+        },
+        {
+          "label": "Przejscie dla pieszych ostrzegawczy",
+          "bbox": [1122, 733, 1142, 753]
+        },
+        {
+          "label": "Zakaz postoju",
+          "bbox": [1259, 735, 1286, 764]
+        }
+      ]
+    }
+  ]
+}

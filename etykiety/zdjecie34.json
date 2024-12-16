@@ -1,0 +1,26 @@
+{
+    "images": [
+      {
+        "image_id": "zdjecie34.jpg",
+        "objects": [
+          {
+            "label": "Nakaz jazdy po prawej stronie znaku",
+            "bbox": [620, 658, 649, 691]
+          },
+          {
+            "label": "Rondo",
+            "bbox": [776, 645, 808, 673]
+          },
+          {
+            "label": "Ustąp pierwszeństwa",
+            "bbox": [778, 617, 810, 651]
+          },
+          {
+            "label": "Przejscie dla pieszych",
+            "bbox": [817, 630, 844, 665]
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,41 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie48.jpg",
+      "objects": [
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1286, 628, 1308, 653]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1285, 651, 1307, 677]
+        },
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [647, 625, 667, 646]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [643, 644, 669, 670]
+        },
+        {
+          "label": "Zakaz wjazdu",
+          "bbox": [750, 660, 776, 688]
+        },
+        {
+          "label": "Zakaz wjazdu",
+          "bbox": [263, 626, 292, 647]
+        },
+        {
+          "label": "Stop",
+          "bbox": [57, 549, 77, 580]
+        },
+        {
+          "label": "Nakaz skretu w lewo",
+          "bbox": [51, 576, 74, 600]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie46.jpg",
+      "objects": [
+        {
+          "label": "Nakaz jazdy prosto",
+          "bbox": [1295, 526, 1353, 594]
+        },
+        {
+          "label": "Chodnik z droga rowerowa",
+          "bbox": [598, 595, 636, 640]
+        },
+        {
+          "label": "Parking",
+          "bbox": [382, 639, 419, 672]
+        },
+        {
+          "label": "Strefa zamieszkania",
+          "bbox": [518, 664, 550, 694]
+        },
+        {
+          "label": "Zakaz wjazdu",
+          "bbox": [521, 692, 547, 717]
+        }
+      ]
+    }
+  ]
+}

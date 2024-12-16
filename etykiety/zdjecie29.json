@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie29.jpg",
+      "objects": [
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [445, 486, 496, 547]
+        },
+        {
+          "label": "Przejscie dla pieszych ostrzegawczy",
+          "bbox": [441, 539, 489, 593]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1338, 467, 1401, 543]
+        },
+        {
+          "label": "Przejscie dla pieszych ostrzegawczy",
+          "bbox": [1350, 540, 1398, 596]
+        },
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1108, 704, 1124, 722]
+        }
+      ]
+    }
+  ]
+}

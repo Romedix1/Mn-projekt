@@ -1,0 +1,26 @@
+{
+    "images": [
+      {
+        "image_id": "zdjecie39.jpg",
+        "objects": [
+          {
+            "label": "Stop",
+            "bbox": [1193, 421, 1298, 543]
+          },
+          {
+            "label": "Zakaz wjazdu",
+            "bbox": [1280, 651, 1346, 737]
+          },
+          {
+            "label": "Przejscie dla pieszych",
+            "bbox": [1211, 546, 1307, 641]
+          },
+          {
+            "label": "Nakaz jazdy w lewo",
+            "bbox": [694, 709, 729, 749]
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie51.jpg",
+      "objects": [
+        {
+          "label": "Chodnik z droga rowerowa",
+          "bbox": [1366, 541, 1409, 592]
+        },
+        {
+          "label": "Nakaz jazdy prosto",
+          "bbox": [1150, 663, 1178, 697]
+        }
+      ]
+    }
+  ]
+}
