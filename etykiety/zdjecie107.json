@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie107.jpg",
+      "objects": [
+        {
+          "label": "Parking",
+          "bbox": [1186, 433, 1255, 519]
+        },
+        {
+          "label": "Zakaz postoju",
+          "bbox": [1189, 565, 1256, 618]
+        },
+        {
+          "label": "Nakaz jazdy prosto",
+          "bbox": [328, 637, 357, 666]
+        },
+        {
+          "label": "Zakaz wjazdu pojazdow powyzej 8 ton",
+          "bbox": [335, 591, 362, 621]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie91.jpg",
+      "objects": [
+        {
+          "label": "Zakaz wjazdu",
+          "bbox": [1439, 618, 1469, 673]
+        },
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [1412, 618, 1443, 655]
+        },
+        {
+          "label": "Nakaz skretu w prawo",
+          "bbox": [1414, 652, 1441, 685]
+        }
+      ]
+    }
+  ]
+}

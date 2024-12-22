@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie86.jpg",
+      "objects": [
+        {
+          "label": "Koniec zakazu postoju",
+          "bbox": [1154, 465, 1259, 577]
+        },
+        {
+          "label": "Koniec strefy platnego parkowania",
+          "bbox": [1167, 570, 1257, 662]
+        }
+      ]
+    }
+  ]
+}

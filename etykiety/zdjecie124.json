@@ -1,0 +1,41 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie124.jpg",
+      "objects": [
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1351, 372, 1473, 504]
+        },
+        {
+          "label": "Zakaz wjazdu pojazdow powyzej 10 ton",
+          "bbox": [1369, 573, 1404, 632]
+        },
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [1136, 677, 1163, 713]
+        },
+        {
+          "label": "Nakaz jazdy w prawo",
+          "bbox": [1138, 715, 1161, 745]
+        },
+        {
+          "label": "Nakaz jazdy prosto",
+          "bbox": [1006, 692, 1040, 727]
+        },
+        {
+          "label": "Parking",
+          "bbox": [1005, 721, 1033, 753]
+        },
+        {
+          "label": "Parking",
+          "bbox": [499, 653, 543, 692]
+        },
+        {
+          "label": "Parking",
+          "bbox": [373, 627, 405, 666]
+        }
+      ]
+    }
+  ]
+}

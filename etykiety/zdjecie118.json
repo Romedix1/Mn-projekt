@@ -1,0 +1,33 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie118.jpg",
+      "objects": [
+        {
+          "label": "Nakaz jazdy po prawej stronie znaku",
+          "bbox": [432, 664, 552, 778]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [875, 705, 897, 728]
+        },
+        {
+          "label": "Przejscie dla pieszych ostrzegawczy",
+          "bbox": [878, 723, 898, 747]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1361, 720, 1386, 743]
+        },
+        {
+          "label": "Przejscie dla pieszych ostrzegawczy",
+          "bbox": [1365, 739, 1385, 762]
+        },
+        {
+          "label": "Nakaz jazdy prosto",
+          "bbox": [1364, 699, 1383, 722]
+        }
+      ]
+    }
+  ]
+}

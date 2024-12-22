@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie88.jpg",
+      "objects": [
+        {
+          "label": "Slepa uliczka",
+          "bbox": [955, 681, 995, 721]
+        },
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [918, 734, 938, 758]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [919, 754, 938, 778]
+        }
+      ]
+    }
+  ]
+}

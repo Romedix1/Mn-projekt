@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie98.jpg",
+      "objects": [
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [629, 730, 651, 749]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [889, 725, 906, 747]
+        },
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [867, 752, 893, 775]
+        },
+        {
+          "label": "Uprzedzenie o zakazie",
+          "bbox": [957, 699, 1026, 752]
+        } 
+      ]
+    }
+  ]
+}

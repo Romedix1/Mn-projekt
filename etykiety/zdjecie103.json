@@ -1,0 +1,13 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie103.jpg",
+      "objects": [
+        {
+          "label": "Nakaz jazdy prosto",
+          "bbox": [1203, 657, 1252, 712]
+        }
+      ]
+    }
+  ]
+}

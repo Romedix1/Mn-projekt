@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie80.jpg",
+      "objects": [
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [1227, 460, 1312, 539]
+        },
+        {
+          "label": "Koniec ograniczenia predkosci",
+          "bbox": [1242, 530, 1302, 595]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1234, 590, 1303, 657]
+        }
+      ]
+    }
+  ]
+}

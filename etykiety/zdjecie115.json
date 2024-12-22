@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie115.jpg",
+      "objects": [
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1307, 468, 1396, 560]
+        },
+        {
+          "label": "Roboty drogowe",
+          "bbox": [1758, 648, 1783, 683]
+        }
+      ]
+    }
+  ]
+}

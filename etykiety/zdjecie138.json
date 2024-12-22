@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie138.jpg",
+      "objects": [
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1044, 724, 1071, 754]
+        },
+        {
+          "label": "Przebieg drogi z pierwszenstwem",
+          "bbox": [1043, 753, 1068, 775]
+        }
+      ]
+    }
+  ]
+}

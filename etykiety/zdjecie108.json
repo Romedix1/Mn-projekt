@@ -1,0 +1,13 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie108.jpg",
+      "objects": [
+        {
+          "label": "Zakaz postoju",
+          "bbox": [1029, 685, 1077, 736]
+        }
+      ]
+    }
+  ]
+}

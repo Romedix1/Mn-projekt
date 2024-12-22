@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie87.jpg",
+      "objects": [
+        {
+          "label": "Zakaz skretu w prawo",
+          "bbox": [1698, 408, 1782, 517]
+        },
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1705, 506, 1784, 601]
+        }
+      ]
+    }
+  ]
+}

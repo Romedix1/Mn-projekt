@@ -1,0 +1,13 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie68.jpg",
+      "objects": [
+        {
+          "label": "Zakaz wyprzedzania",
+          "bbox": [995, 629, 1023, 659]
+        }
+      ]
+    }
+  ]
+}

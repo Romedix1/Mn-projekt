@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie57.jpg",
+      "objects": [
+        {
+          "label": "Uwaga jelenie",
+          "bbox": [1286, 257, 1404, 359]
+        },
+        {
+          "label": "Zakaz wyprzedzania",
+          "bbox": [1289, 405, 1432, 552]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie96.jpg",
+      "objects": [
+        {
+          "label": "Kierunki pasow",
+          "bbox": [1592, 589, 1672, 679]
+        },
+        {
+          "label": "Zakaz wjazdu ciezarowek",
+          "bbox": [1596, 526, 1640, 577]
+        }, 
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [35, 623, 66, 660]
+        }
+      ]
+    }
+  ]
+}

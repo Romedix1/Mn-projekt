@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie135.jpg",
+      "objects": [
+        {
+          "label": "Droga dla pieszych",
+          "bbox": [233, 558, 268, 597]
+        },
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [1589, 396, 1664, 492]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1610, 490, 1665, 564]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1513, 685, 1547, 720]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1328, 662, 1356, 693]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie78.jpg",
+      "objects": [
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [1223, 377, 1346, 498]
+        },
+        {
+          "label": "Rondo",
+          "bbox": [1221, 490, 1338, 600]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1490, 663, 1515, 692]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [456, 636, 474, 655]
+        }
+      ]
+    }
+  ]
+}

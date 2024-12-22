@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie133.jpg",
+      "objects": [
+        {
+          "label": "Zakaz wjazdu",
+          "bbox": [646, 670, 695, 724]
+        },
+        {
+          "label": "Nakaz jazdy prosto",
+          "bbox": [1074, 755, 1106, 788]
+        },
+        {
+          "label": "Ograniczenie predkosci",
+          "bbox": [1733, 645, 1757, 690]
+        },
+        {
+          "label": "Slepa uliczka",
+          "bbox": [1733, 679, 1757, 722]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie75.jpg",
+      "objects": [
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1004, 617, 1035, 656]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [999, 649, 1033, 681]
+        }
+      ]
+    }
+  ]
+}

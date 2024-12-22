@@ -1,0 +1,17 @@
+{
+    "images": [
+        {
+            "image_id": "zdjecie82.png",
+            "objects": [
+                {
+                    "label": "Nakaz jazdy w prawo",
+                    "bbox": [331, 515, 406, 623]
+                },
+                {
+                  "label": "Przejscie dla pieszych",
+                  "bbox": [1217, 719, 1252, 763]
+                }
+            ]
+        }
+    ]
+}

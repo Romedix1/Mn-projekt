@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie129.jpg",
+      "objects": [
+        {
+          "label": "Nakaz jazdy po prawej stronie znaku",
+          "bbox": [982, 722, 1008, 755]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1161, 550, 1238, 625]
+        },
+        {
+          "label": "Roboty drogowe",
+          "bbox": [1682, 658, 1709, 693]
+        },
+        {
+          "label": "Ograniczenie predkosci",
+          "bbox": [1667, 683, 1690, 709]
+        }
+      ]
+    }
+  ]
+}

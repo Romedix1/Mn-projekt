@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie110.jpg",
+      "objects": [
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [484, 682, 516, 713]
+        },
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [948, 702, 1007, 753]
+        }
+      ]
+    }
+  ]
+}

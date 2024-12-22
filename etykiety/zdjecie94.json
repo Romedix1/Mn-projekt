@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie94.jpg",
+      "objects": [
+        {
+          "label": "Roboty drogowe",
+          "bbox": [1337, 596, 1405, 671]
+        },
+        {
+          "label": "Ograniczenie predkosci",
+          "bbox": [1350, 667, 1402, 728]
+        },
+        {
+          "label": "Zwezenie drogi prawostronne",
+          "bbox": [1125, 673, 1158, 703]
+        }
+      ]
+    }
+  ]
+}

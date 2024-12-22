@@ -1,0 +1,37 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie134.jpg",
+      "objects": [
+        {
+          "label": "Zakaz wjazdu",
+          "bbox": [1589, 551, 1650, 626]
+        },
+        {
+          "label": "Parking",
+          "bbox": [1510, 372, 1576, 458]
+        },
+        {
+          "label": "Zakaz postoju",
+          "bbox": [1522, 493, 1599, 567]
+        },
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [991, 703, 1029, 737]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [995, 731, 1021, 751]
+        },
+        {
+          "label": "Przejscie dla pieszych ostrzegawczy",
+          "bbox": [997, 748, 1021, 771]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [623, 747, 639, 767]
+        }
+      ]
+    }
+  ]
+}

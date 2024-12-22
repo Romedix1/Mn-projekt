@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie137.jpg",
+      "objects": [
+        {
+          "label": "Kierunki pasow",
+          "bbox": [1314, 676, 1411, 719]
+        },
+        {
+          "label": "Nakaz jazdy prosto",
+          "bbox": [1318, 640, 1351, 679]
+        }
+      ]
+    }
+  ]
+}

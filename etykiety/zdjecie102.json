@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie102.jpg",
+      "objects": [
+        {
+          "label": "Zakaz wjazdu ciezarowek",
+          "bbox": [514, 664, 564, 718]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [477, 682, 508, 716]
+        },
+        {
+          "label": "Przejscie dla pieszych ostrzegawczy",
+          "bbox": [476, 711, 503, 741]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie92.jpg",
+      "objects": [
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1295, 623, 1321, 652]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1288, 644, 1326, 680]
+        },
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [623, 623, 648, 645]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [619, 640, 647, 669]
+        },
+        {
+          "label": "Zakaz wjazdu",
+          "bbox": [734, 659, 766, 688]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie122.jpg",
+      "objects": [
+        {
+          "label": "Droga dla pieszych",
+          "bbox": [863, 761, 879, 777]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie121.jpg",
+      "objects": [
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [934, 726, 968, 758]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [935, 754, 965, 781]
+        },
+        {
+          "label": "Nakaz jazdy po prawej stronie znaku",
+          "bbox": [703, 782, 727, 807]
+        },
+        {
+          "label": "Nakaz jazdy prosto",
+          "bbox": [873, 768, 890, 785]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [874, 781, 889, 798]
+        },
+        {
+          "label": "Kierunki pasow",
+          "bbox": [748, 791, 774, 807]
+        }
+      ]
+    }
+  ]
+}

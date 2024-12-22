@@ -1,0 +1,13 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie139.jpg",
+      "objects": [
+        {
+          "label": "Koniec strefy ruchu",
+          "bbox": [1521, 486, 1737, 642]
+        }
+      ]
+    }
+  ]
+}

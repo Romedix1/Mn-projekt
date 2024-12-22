@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie131.jpg",
+      "objects": [
+        {
+          "label": "Przebieg drogi z pierwszenstwem",
+          "bbox": [1171, 688, 1192, 710]
+        },
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1172, 671, 1192, 695]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1159, 696, 1176, 713]
+        }
+      ]
+    }
+  ]
+}

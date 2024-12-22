@@ -1,0 +1,13 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie120.jpg",
+      "objects": [
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1150, 696, 1182, 731]
+        }
+      ]
+    }
+  ]
+}

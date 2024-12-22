@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie62.jpg",
+      "objects": [
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [860, 719, 901, 764]
+        },
+        {
+          "label": "Przejscie dla pieszych ostrzegawczy",
+          "bbox": [826, 767, 839, 785]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [827, 758, 840, 773]
+        }
+      ]
+    }
+  ]
+}

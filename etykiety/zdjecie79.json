@@ -1,0 +1,33 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie78.jpg",
+      "objects": [
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [526, 571, 585, 637]
+        },
+        {
+          "label": "Przejscie dla pieszych ostrzegawczy",
+          "bbox": [522, 634, 577, 685]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1344, 616, 1400, 673]
+        },
+        {
+          "label": "Przejscie dla pieszych ostrzegawczy",
+          "bbox": [1348, 666, 1398, 717]
+        },
+        {
+          "label": "Nakaz jazdy prosto",
+          "bbox": [1335, 560, 1399, 623]
+        },
+        {
+          "label": "Chodnik z droga rowerowa",
+          "bbox": [1515, 632, 1544, 672]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie69.jpg",
+      "objects": [
+        {
+          "label": "Zakaz wjazdu",
+          "bbox": [841, 645, 896, 714]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [402, 684, 435, 719]
+        }
+      ]
+    }
+  ]
+}

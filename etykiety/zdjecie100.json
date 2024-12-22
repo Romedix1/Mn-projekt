@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie99.jpg",
+      "objects": [
+        {
+          "label": "Droga z piewszenstwem",
+          "bbox": [922, 655, 940, 670]
+        },
+        {
+          "label": "Slepa uliczka",
+          "bbox": [1002, 645, 1032, 675]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [920, 667, 940, 683]
+        } 
+      ]
+    }
+  ]
+}

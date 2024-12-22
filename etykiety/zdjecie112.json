@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie112.jpg",
+      "objects": [
+        {
+          "label": "Uwaga tramwaj",
+          "bbox": [698, 763, 716, 780]
+        },
+        {
+          "label": "Uwaga tramwaj",
+          "bbox": [878, 774, 896, 790]
+        }
+      ]
+    }
+  ]
+}
