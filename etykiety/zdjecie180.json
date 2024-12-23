@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie180.jpg",
+      "objects": [
+        {
+          "label": "Wlot drogi jednokierunkowej z prawej strony",
+          "bbox": [1272, 701, 1320, 744]
+        },
+        {
+          "label": "Wlot drogi jednokierunkowej z prawej strony",
+          "bbox": [805, 708, 845, 745]
+        },
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [1178, 755, 1194, 770]
+        },
+        {
+          "label": "Nakaz jazdy prosto",
+          "bbox": [1179, 766, 1194, 783]
+        }
+      ]
+    }
+  ]
+}

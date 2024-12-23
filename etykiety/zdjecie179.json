@@ -1,0 +1,13 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie179.jpg",
+      "objects": [
+        {
+          "label": "Tablica informacyjna",
+          "bbox": [1287, 703, 1342, 764]
+        }
+      ]
+    }
+  ]
+}

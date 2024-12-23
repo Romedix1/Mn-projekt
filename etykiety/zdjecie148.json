@@ -1,0 +1,33 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie148.jpg",
+      "objects": [
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [655, 645, 709, 694]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [655, 687, 703, 734]
+        },
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [1191, 655, 1250, 703]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1194, 694, 1242, 742]
+        },
+        {
+          "label": "Koniec ograniczenia predkosci",
+          "bbox": [1514, 531, 1574, 597]
+        },
+        {
+          "label": "Parking",
+          "bbox": [1519, 591, 1578, 661]
+        }
+      ]
+    }
+  ]
+}

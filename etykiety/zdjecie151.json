@@ -1,0 +1,33 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie151.jpg",
+      "objects": [
+        {
+          "label": "Zakaz wjazdu",
+          "bbox": [378, 568, 408, 600]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [766, 581, 793, 604]
+        },
+        {
+          "label": "Przejscie dla pieszych ostrzegawczy",
+          "bbox": [769, 599, 790, 626]
+        },
+        {
+          "label": "Nakaz jazdy prosto",
+          "bbox": [1347, 587, 1379, 620]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1349, 614, 1376, 641]
+        },
+        {
+          "label": "Przejscie dla pieszych ostrzegawczy",
+          "bbox": [1347, 633, 1378, 664]
+        }
+      ]
+    }
+  ]
+}

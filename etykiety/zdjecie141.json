@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie141.jpg",
+      "objects": [
+        {
+          "label": "Kierunki pasow",
+          "bbox": [541, 685, 611, 729]
+        },
+        {
+          "label": "Uwaga rowerzysci",
+          "bbox": [547, 656, 587, 690]
+        },
+        {
+          "label": "Parking",
+          "bbox": [925, 601, 957, 645]
+        },
+        {
+          "label": "Zakaz postoju",
+          "bbox": [925, 662, 952, 695]
+        },
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [508, 680, 536, 706]
+        }
+      ]
+    }
+  ]
+}

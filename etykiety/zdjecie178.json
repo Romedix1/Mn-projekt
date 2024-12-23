@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie178.jpg",
+      "objects": [
+        {
+          "label": "Nakaz jazdy w lewo",
+          "bbox": [740, 676, 801, 731]
+        },
+        {
+          "label": "Zakaz wjazdu",
+          "bbox": [1713, 494, 1827, 635]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie187.jpg",
+      "objects": [
+        {
+          "label": "Sygnalizacja swietlna",
+          "bbox": [1103, 730, 1126, 749]
+        },
+        {
+          "label": "Strefa monitorowana",
+          "bbox": [1118, 745, 1138, 768]
+        },
+        {
+          "label": "Kierunki pasow",
+          "bbox": [1099, 749, 1126, 769]
+        }
+      ]
+    }
+  ]
+}

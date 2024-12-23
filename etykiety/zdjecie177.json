@@ -1,0 +1,37 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie177.jpg",
+      "objects": [
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [0, 283, 89, 382]
+        },
+        {
+          "label": "Nakaz jazdy prosto",
+          "bbox": [869, 734, 883, 754]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [867, 749, 883, 765]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1194, 724, 1214, 749]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1517, 683, 1549, 722]
+        },
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [1576, 381, 1661, 490]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1592, 486, 1683, 570]
+        }
+      ]
+    }
+  ]
+}

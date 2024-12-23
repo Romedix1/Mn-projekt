@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie186.jpg",
+      "objects": [
+        {
+          "label": "Zakaz postoju",
+          "bbox": [1662, 663, 1694, 704]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1665, 572, 1714, 644]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [703, 574, 778, 653]
+        },
+        {
+          "label": "Kierunek ruchu",
+          "bbox": [1248, 485, 1302, 529]
+        },
+        {
+          "label": "Kierunek ruchu",
+          "bbox": [1085, 495, 1142, 540]
+        }
+      ]
+    }
+  ]
+}

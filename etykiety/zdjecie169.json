@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie169.jpg",
+      "objects": [
+        {
+          "label": "Parking",
+          "bbox": [1493, 644, 1516, 674]
+        },
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [1458, 674, 1467, 694]
+        },
+        {
+          "label": "Nakaz skretu w prawo",
+          "bbox": [1457, 688, 1468, 712]
+        }
+      ]
+    }
+  ]
+}

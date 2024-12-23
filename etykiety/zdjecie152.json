@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie152.jpg",
+      "objects": [
+        {
+          "label": "Zakaz postoju",
+          "bbox": [971, 741, 994, 762]
+        },
+        {
+          "label": "Kierunki pasow",
+          "bbox": [972, 757, 1010, 779]
+        }
+      ]
+    }
+  ]
+}

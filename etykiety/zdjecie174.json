@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie174.jpg",
+      "objects": [
+        {
+          "label": "Uwaga roboty drogowe",
+          "bbox": [1028, 722, 1057, 748]
+        },
+        {
+          "label": "Ograniczenie predkosci",
+          "bbox": [1029, 742, 1056, 764]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie181.jpg",
+      "objects": [
+        {
+          "label": "Zakaz wjazdu dla rowerow",
+          "bbox": [1521, 543, 1588, 610]
+        },
+        {
+          "label": "Ograniczenie predkosci",
+          "bbox": [1525, 604, 1597, 674]
+        },
+        {
+          "label": "Nakaz jazdy prosto",
+          "bbox": [1537, 670, 1593, 724]
+        },
+        {
+          "label": "Zakaz postoju",
+          "bbox": [1222, 724, 1253, 753]
+        }
+      ]
+    }
+  ]
+}

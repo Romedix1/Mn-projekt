@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie193.jpg",
+      "objects": [
+        {
+          "label": "Sygnalizacja swietlna",
+          "bbox": [1492, 614, 1547, 667]
+        },
+        {
+          "label": "Zakaz skretu w lewo",
+          "bbox": [1203, 742, 1221, 763]
+        },
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1188, 742, 1206, 765]
+        },
+        {
+          "label": "Strefa monitorowana",
+          "bbox": [1390, 721, 1414, 750]
+        }
+      ]
+    }
+  ]
+}

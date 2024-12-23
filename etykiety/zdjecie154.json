@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie154.jpg",
+      "objects": [
+        {
+          "label": "Parking",
+          "bbox": [744, 724, 763, 742]
+        },
+        {
+          "label": "Kierunki pasow",
+          "bbox": [739, 743, 772, 768]
+        },
+        {
+          "label": "Parking",
+          "bbox": [911, 611, 979, 679]
+        },
+        {
+          "label": "Parking",
+          "bbox": [1011, 654, 1035, 707]
+        }
+      ]
+    }
+  ]
+}

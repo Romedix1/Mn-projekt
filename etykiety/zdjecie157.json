@@ -1,0 +1,41 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie157.jpg",
+      "objects": [
+        {
+          "label": "Nakaz jazdy po prawej stronie znaku",
+          "bbox": [706, 778, 733, 808]
+        },
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [888, 750, 917, 775]
+        },
+        {
+          "label": "Rondo",
+          "bbox": [891, 770, 916, 795]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [959, 753, 981, 774]
+        },
+        {
+          "label": "Przejscie dla pieszych ostrzegawczy",
+          "bbox": [958, 770, 980, 792]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1177, 746, 1199, 770]
+        },
+        {
+          "label": "Przejscie dla pieszych ostrzegawczy",
+          "bbox": [1178, 762, 1198, 783]
+        },
+        {
+          "label": "Nakaz jazdy prosto",
+          "bbox": [1608, 642, 1662, 708]
+        }
+      ]
+    }
+  ]
+}

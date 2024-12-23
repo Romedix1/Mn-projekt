@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie188.jpg",
+      "objects": [
+        {
+          "label": "Tablica kierunkowa",
+          "bbox": [1187, 615, 1330, 682]
+        },
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1127, 747, 1149, 769]
+        }
+      ]
+    }
+  ]
+}

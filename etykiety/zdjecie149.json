@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie149.jpg",
+      "objects": [
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1464, 291, 1627, 444]
+        },
+        {
+          "label": "Przejscie dla pieszych ostrzegawczy",
+          "bbox": [1512, 435, 1619, 556]
+        },
+        {
+          "label": "Uwaga jelenie",
+          "bbox": [1172, 707, 1199, 732]
+        },
+        {
+          "label": "Zakaz wyprzedzania",
+          "bbox": [1169, 737, 1197, 766]
+        }
+      ]
+    }
+  ]
+}

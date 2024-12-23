@@ -1,0 +1,13 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie184.jpg",
+      "objects": [
+        {
+          "label": "Tablica szlaku drogowego",
+          "bbox": [1296, 670, 1416, 754]
+        }
+      ]
+    }
+  ]
+}

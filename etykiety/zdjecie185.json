@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie185.jpg",
+      "objects": [
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [1315, 674, 1356, 708]
+        },
+        {
+          "label": "Nakaz jazdy prosto",
+          "bbox": [1317, 706, 1353, 741]
+        }
+      ]
+    }
+  ]
+}

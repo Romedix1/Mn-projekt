@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie165.jpg",
+      "objects": [
+        {
+          "label": "Nakaz jazdy prosto",
+          "bbox": [960, 757, 976, 772]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [960, 768, 977, 785]
+        },
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1148, 698, 1185, 736]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1150, 734, 1181, 769]
+        }
+      ]
+    }
+  ]
+}

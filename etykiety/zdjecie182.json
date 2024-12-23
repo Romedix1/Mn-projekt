@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie182.jpg",
+      "objects": [
+        {
+          "label": "Uwaga jelenie",
+          "bbox": [866, 735, 897, 764]
+        },
+        {
+          "label": "Uwaga jelenie",
+          "bbox": [1266, 736, 1303, 763]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie143.jpg",
+      "objects": [
+        {
+          "label": "Kierunki pasow",
+          "bbox": [867, 723, 918, 758]
+        },
+        {
+          "label": "Parking",
+          "bbox": [881, 697, 908, 728]
+        },
+        {
+          "label": "Chodnik z droga rowerowa",
+          "bbox": [1020, 721, 1051, 753]
+        },
+        {
+          "label": "Zakaz postoju",
+          "bbox": [1565, 666, 1599, 708]
+        },
+        {
+          "label": "Parking",
+          "bbox": [1557, 604, 1602, 659]
+        },
+        {
+          "label": "Parking",
+          "bbox": [1700, 637, 1747, 691]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1739, 293, 1914, 499]
+        },
+        {
+          "label": "Ograniczenie predkosci",
+          "bbox": [1182, 673, 1213, 727]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie160.jpg",
+      "objects": [
+        {
+          "label": "Stop",
+          "bbox": [1052, 732, 1089, 764]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1058, 760, 1083, 787]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [689, 747, 717, 774]
+        }
+      ]
+    }
+  ]
+}

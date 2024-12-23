@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie142.jpg",
+      "objects": [
+        {
+          "label": "Zakaz wjazdu pojazdow powyzej 8 ton",
+          "bbox": [159, 512, 196, 555]
+        },
+        {
+          "label": "Nakaz jazdy prosto",
+          "bbox": [149, 571, 188, 615]
+        },
+        {
+          "label": "Zakaz postoju",
+          "bbox": [1755, 158, 1847, 274]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie147.jpg",
+      "objects": [
+        {
+          "label": "Zakaz wjazdu ciezarowek",
+          "bbox": [1453, 682, 1475, 712]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1007, 731, 1033, 763]
+        },
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1258, 654, 1298, 688]
+        },
+        {
+          "label": "Slepa uliczka",
+          "bbox": [1253, 606, 1299, 656]
+        }
+      ]
+    }
+  ]
+}
