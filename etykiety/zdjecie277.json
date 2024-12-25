@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie277.jpg",
+      "objects": [
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1004, 701, 1031, 723]
+        },
+        {
+          "label": "Inne ostrzezenie",
+          "bbox": [939, 726, 971, 755]
+        },
+        {
+          "label": "Parking",
+          "bbox": [130, 625, 167, 671]
+        }
+      ]
+    }
+  ]
+}

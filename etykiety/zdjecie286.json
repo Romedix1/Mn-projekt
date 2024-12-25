@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie286.jpg",
+      "objects": [
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1230, 671, 1253, 696]
+        },
+        {
+          "label": "nakaz jazdy prosto",
+          "bbox": [1132, 700, 1149, 719]
+        }
+      ]
+    }
+  ]
+}

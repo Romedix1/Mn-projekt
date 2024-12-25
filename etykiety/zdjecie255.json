@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie255.jpg",
+      "objects": [
+        {
+          "label": "Uwaga tramwaj",
+          "bbox": [1168, 686, 1190, 704]
+        },
+        {
+          "label": "Przebieg torow tramwajowych przez droge",
+          "bbox": [1171, 699, 1189, 716]
+        },
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1170, 711, 1188, 729]
+        }
+      ]
+    }
+  ]
+}

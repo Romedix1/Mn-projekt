@@ -1,0 +1,41 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie258.jpg",
+      "objects": [
+        {
+          "label": "Zakaz wjazdu",
+          "bbox": [1274, 583, 1336, 670]
+        },
+        {
+          "label": "Nakaz jazdy prosto",
+          "bbox": [994, 691, 1025, 718]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [993, 719, 1023, 744]
+        },
+        {
+          "label": "Chodnik z droga rowerowa",
+          "bbox": [994, 740, 1024, 769]
+        },
+        {
+          "label": "Zakaz postoju",
+          "bbox": [812, 716, 837, 741]
+        },
+        {
+          "label": "Ograniczenie predkosci",
+          "bbox": [812, 737, 835, 758]
+        },
+        {
+          "label": "Parking",
+          "bbox": [652, 710, 666, 730]
+        },
+        {
+          "label": "Parking",
+          "bbox": [647, 727, 666, 747]
+        }
+      ]
+    }
+  ]
+}

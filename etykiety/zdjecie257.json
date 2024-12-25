@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie257.jpg",
+      "objects": [
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1365, 561, 1428, 625]
+        },
+        {
+          "label": "Zakaz wyprzedzania",
+          "bbox": [1216, 656, 1238, 680]
+        },
+        {
+          "label": "Nakaz jazdy po prawej stronie znaku",
+          "bbox": [866, 619, 905, 660]
+        }
+      ]
+    }
+  ]
+}

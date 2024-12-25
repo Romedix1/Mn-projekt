@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie237.jpg",
+      "objects": [
+        {
+          "label": "Sygnalizacja swietlna",
+          "bbox": [1170, 664, 1220, 713]
+        },
+        {
+          "label": "Kierunek pasow",
+          "bbox": [1164, 707, 1228, 754]
+        },
+        {
+          "label": "Kierunek ruchu",
+          "bbox": [1001, 714, 1018, 734]
+        }
+      ]
+    }
+  ]
+}

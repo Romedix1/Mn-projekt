@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie225.jpg",
+      "objects": [
+        {
+          "label": "Kierunek ruchu",
+          "bbox": [1101, 613, 1137, 644]
+        },
+        {
+          "label": "Kierunek ruchu",
+          "bbox": [998, 617, 1043, 659]
+        },
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1193, 673, 1244, 723]
+        }
+      ]
+    }
+  ]
+}

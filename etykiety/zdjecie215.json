@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie215.jpg",
+      "objects": [
+        {
+          "label": "Tablica informacyjna",
+          "bbox": [1300, 681, 1366, 753]
+        },
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1470, 550, 1580, 656]
+        },
+        {
+          "label": "Kierunek ruchu",
+          "bbox": [1125, 654, 1157, 685]
+        },
+        {
+          "label": "Kierunek ruchu",
+          "bbox": [1028, 659, 1063, 686]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1168, 755, 1188, 779]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie259.jpg",
+      "objects": [
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [1223, 488, 1330, 582]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1248, 578, 1327, 656]
+        },
+        {
+          "label": "Zakaz postoju",
+          "bbox": [1343, 736, 1374, 769]
+        },
+        {
+          "label": "Parking",
+          "bbox": [499, 747, 516, 772]
+        }
+      ]
+    }
+  ]
+}

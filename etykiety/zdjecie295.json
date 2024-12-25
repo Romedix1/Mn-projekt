@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie295.jpg",
+      "objects": [
+        {
+          "label": "Zakaz wjazdu",
+          "bbox": [1837, 342, 1914, 433]
+        },
+        {
+          "label": "Zakaz wyprzedzania",
+          "bbox": [1065, 599, 1102, 644]
+        }
+      ]
+    }
+  ]
+}

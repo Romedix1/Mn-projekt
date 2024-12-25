@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie298.jpg",
+      "objects": [
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1304, 738, 1330, 758]
+        },
+        {
+          "label": "Kierunek ruchu",
+          "bbox": [1175, 720, 1197, 740]
+        },
+        {
+          "label": "Sygnalizacja swietlna",
+          "bbox": [1446, 642, 1507, 691]
+        },
+        {
+          "label": "Kierunek pasow",
+          "bbox": [1452, 686, 1511, 736]
+        },
+        {
+          "label": "Zakaz postoju",
+          "bbox": [1748, 582, 1860, 692]
+        }
+      ]
+    }
+  ]
+}

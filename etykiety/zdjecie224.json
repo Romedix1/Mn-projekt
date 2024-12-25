@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie224.jpg",
+      "objects": [
+        {
+          "label": "Kierunek pasow",
+          "bbox": [1714, 598, 1803, 667]
+        },
+        {
+          "label": "Swiatla drogowe",
+          "bbox": [1726, 546, 1784, 611]
+        },
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1374, 697, 1402, 728]
+        }
+      ]
+    }
+  ]
+}

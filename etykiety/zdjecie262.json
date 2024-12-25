@@ -1,0 +1,41 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie262.jpg",
+      "objects": [
+        {
+          "label": "Parking",
+          "bbox": [144, 367, 230, 450]
+        },
+        {
+          "label": "Parking",
+          "bbox": [124, 475, 201, 564]
+        },
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [450, 602, 504, 653]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [454, 647, 493, 696]
+        },
+        {
+          "label": "Nakaz jazdy prosto",
+          "bbox": [860, 750, 877, 768]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1300, 731, 1324, 757]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [860, 762, 875, 776]
+        },
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [1159, 634, 1210, 681]
+        }
+      ]
+    }
+  ]
+}

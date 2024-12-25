@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie204.jpg",
+      "objects": [
+        {
+          "label": "Chodnik z droga rowerowa",
+          "bbox": [1659, 653, 1706, 708]
+        },
+        {
+          "label": "Kierunek pasow",
+          "bbox": [1169, 765, 1202, 783]
+        },
+        {
+          "label": "Sygnalizacja swietlna",
+          "bbox": [1176, 751, 1195, 766]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie217.jpg",
+      "objects": [
+        {
+          "label": "Zakaz postoju",
+          "bbox": [1763, 568, 1863, 683]
+        },
+        {
+          "label": "Sygnalizacja swietlna",
+          "bbox": [1453, 650, 1504, 692]
+        },
+        {
+          "label": "Kierunek pasow",
+          "bbox": [1449, 689, 1508, 728]
+        }
+      ]
+    }
+  ]
+}

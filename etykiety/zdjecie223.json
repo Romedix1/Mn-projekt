@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie223.jpg",
+      "objects": [
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1381, 607, 1433, 656]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1704, 600, 1746, 653]
+        }
+      ]
+    }
+  ]
+}

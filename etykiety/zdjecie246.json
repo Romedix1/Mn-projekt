@@ -1,0 +1,37 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie246.jpg",
+      "objects": [
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1229, 764, 1248, 779]
+        },
+        {
+          "label": "Kierunek ruchu",
+          "bbox": [1194, 717, 1211, 732]
+        },
+        {
+          "label": "Kierunek ruchu",
+          "bbox": [1155, 719, 1171, 736]
+        },
+        {
+          "label": "Nakaz jazdy po prawej stronie znaku",
+          "bbox": [1079, 760, 1101, 777]
+        },
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1250, 757, 1271, 777]
+        },
+        {
+          "label": "Sygnalizacja swietlna",
+          "bbox": [1292, 722, 1322, 747]
+        },
+        {
+          "label": "Kierunek pasow",
+          "bbox": [1292, 742, 1322, 769]
+        }
+      ]
+    }
+  ]
+}

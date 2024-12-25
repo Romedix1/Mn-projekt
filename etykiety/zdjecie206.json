@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie206.jpg",
+      "objects": [
+        {
+          "label": "Chodnik",
+          "bbox": [1413, 724, 1437, 749]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1363, 714, 1383, 740]
+        },
+        {
+          "label": "Kierunek ruchu",
+          "bbox": [1214, 647, 1229, 668]
+        },
+        {
+          "label": "Kierunek ruchu",
+          "bbox": [1153, 648, 1170, 673]
+        },
+        {
+          "label": "Kierunek ruchu",
+          "bbox": [1082, 657, 1105, 681]
+        }
+      ]
+    }
+  ]
+}

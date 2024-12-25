@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie282.jpg",
+      "objects": [
+        {
+          "label": "Zakaz wjazdu dla ciezarowek",
+          "bbox": [913, 715, 935, 739]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [911, 745, 934, 767]
+        },
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [892, 760, 913, 783]
+        }
+      ]
+    }
+  ]
+}

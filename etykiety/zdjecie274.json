@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie274.jpg",
+      "objects": [
+        {
+          "label": "Parking",
+          "bbox": [965, 688, 1015, 733]
+        },
+        {
+          "label": "Zakaz wjazdu",
+          "bbox": [1281, 682, 1311, 726]
+        }
+      ]
+    }
+  ]
+}

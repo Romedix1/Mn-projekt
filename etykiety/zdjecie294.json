@@ -1,0 +1,13 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie294.jpg",
+      "objects": [
+        {
+          "label": "Parking",
+          "bbox": [1129, 609, 1174, 658]
+        }
+      ]
+    }
+  ]
+}

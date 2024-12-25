@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie245.jpg",
+      "objects": [
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1671, 623, 1708, 665]
+        },
+        {
+          "label": "Kierunek ruchu",
+          "bbox": [1302, 522, 1340, 558]
+        },
+        {
+          "label": "Kierunek ruchu",
+          "bbox": [1186, 531, 1225, 568]
+        },
+        {
+          "label": "Kierunek ruchu",
+          "bbox": [1050, 545, 1088, 584]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1534, 710, 1557, 736]
+        }
+      ]
+    }
+  ]
+}

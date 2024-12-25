@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie263.jpg",
+      "objects": [
+        {
+          "label": "Parking",
+          "bbox": [939, 738, 966, 764]
+        },
+        {
+          "label": "Parking",
+          "bbox": [939, 694, 964, 727]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1039, 679, 1108, 736]
+        },
+        {
+          "label": "Koniec parkingu",
+          "bbox": [876, 742, 898, 762]
+        },
+        {
+          "label": "Koniec zakazu postoju",
+          "bbox": [876, 757, 896, 779]
+        }
+      ]
+    }
+  ]
+}

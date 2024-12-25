@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie212.jpg",
+      "objects": [
+        {
+          "label": "Kierunek pasow",
+          "bbox": [1140, 686, 1174, 707]
+        },
+        {
+          "label": "Zakaz skretu w prawo",
+          "bbox": [1227, 587, 1277, 634]
+        }
+      ]
+    }
+  ]
+}

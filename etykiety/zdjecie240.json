@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie240.jpg",
+      "objects": [
+        {
+          "label": "Nakaz jazdy po prawej stronie znaku",
+          "bbox": [467, 707, 497, 740]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [563, 724, 588, 750]
+        },
+        {
+          "label": "Roboty drogowe",
+          "bbox": [1278, 732, 1311, 763]
+        },
+        {
+          "label": "Droga rowerowa",
+          "bbox": [1300, 738, 1325, 764]
+        },
+        {
+          "label": "Chodnik",
+          "bbox": [1554, 706, 1580, 734]
+        }
+      ]
+    }
+  ]
+}

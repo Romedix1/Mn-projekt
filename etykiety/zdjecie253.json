@@ -1,0 +1,33 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie253.jpg",
+      "objects": [
+        {
+          "label": "Parking",
+          "bbox": [1717, 502, 1768, 545]
+        },
+        {
+          "label": "Zakaz postoju",
+          "bbox": [1732, 587, 1777, 622]
+        },
+        {
+          "label": "Ograniczenie predkosci",
+          "bbox": [1590, 606, 1639, 661]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [828, 746, 854, 781]
+        },
+        {
+          "label": "Parking",
+          "bbox": [741, 746, 756, 767]
+        },
+        {
+          "label": "Kierunek pasow",
+          "bbox": [737, 760, 762, 781]
+        }
+      ]
+    }
+  ]
+}

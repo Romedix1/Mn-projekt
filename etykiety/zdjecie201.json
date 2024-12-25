@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie201.jpg",
+      "objects": [
+        {
+          "label": "Kierunek pasow",
+          "bbox": [1595, 359, 1838, 541]
+        },
+        {
+          "label": "Kierunek pasow",
+          "bbox": [660, 711, 713, 746]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie251.jpg",
+      "objects": [
+        {
+          "label": "Nakaz jazdy po prawej stronie znaku",
+          "bbox": [788, 651, 848, 709]
+        },
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1241, 505, 1323, 582]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1249, 576, 1315, 636]
+        }
+      ]
+    }
+  ]
+}

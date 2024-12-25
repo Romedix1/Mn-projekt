@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie267.jpg",
+      "objects": [
+        {
+          "label": "Nakaz jazdy po prawej stronie znaku",
+          "bbox": [280, 693, 400, 826]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1712, 614, 1767, 675]
+        }
+      ]
+    }
+  ]
+}

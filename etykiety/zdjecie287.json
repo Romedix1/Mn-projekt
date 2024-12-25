@@ -1,0 +1,33 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie287.jpg",
+      "objects": [
+        {
+          "label": "Parking",
+          "bbox": [713, 748, 730, 769]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [916, 733, 942, 760]
+        },
+        {
+          "label": "nakaz jazdy prosto",
+          "bbox": [915, 755, 931, 772]
+        },
+        {
+          "label": "Parking",
+          "bbox": [912, 767, 929, 783]
+        },
+        {
+          "label": "Parking",
+          "bbox": [936, 735, 960, 763]
+        },
+        {
+          "label": "Parking",
+          "bbox": [1130, 709, 1149, 740]
+        }
+      ]
+    }
+  ]
+}

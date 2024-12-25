@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie284.jpg",
+      "objects": [
+        {
+          "label": "Zakaz postoju",
+          "bbox": [1805, 550, 1871, 623]
+        },
+        {
+          "label": "Nakaz jazdy prosto",
+          "bbox": [1819, 622, 1870, 680]
+        }
+      ]
+    }
+  ]
+}

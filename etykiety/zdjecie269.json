@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie269.jpg",
+      "objects": [
+        {
+          "label": "Chodnik",
+          "bbox": [728, 741, 753, 765]
+        },
+        {
+          "label": "Chodnik z droga rowerowa",
+          "bbox": [558, 718, 592, 748]
+        }
+      ]
+    }
+  ]
+}

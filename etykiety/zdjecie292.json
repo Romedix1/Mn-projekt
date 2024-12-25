@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie292.jpg",
+      "objects": [
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [904, 741, 935, 771]
+        },
+        {
+          "label": "Parking",
+          "bbox": [872, 736, 888, 757]
+        },
+        {
+          "label": "Zakaz postoju",
+          "bbox": [874, 754, 889, 773]
+        }
+      ]
+    }
+  ]
+}

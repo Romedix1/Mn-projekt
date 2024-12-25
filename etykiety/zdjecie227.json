@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie227.jpg",
+      "objects": [
+        {
+          "label": "Zakaz postoju",
+          "bbox": [1414, 629, 1456, 681]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1486, 691, 1545, 756]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [117, 658, 150, 692]
+        },
+        {
+          "label": "Chodnik",
+          "bbox": [1688, 634, 1739, 688]
+        },
+        {
+          "label": "Droga dla rowerow",
+          "bbox": [1409, 671, 1460, 724]
+        }
+      ]
+    }
+  ]
+}

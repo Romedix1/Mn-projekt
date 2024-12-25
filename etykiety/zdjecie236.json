@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie236.jpg",
+      "objects": [
+        {
+          "label": "Tablica kierunkowa",
+          "bbox": [982, 644, 1070, 695]
+        },
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1103, 722, 1127, 747]
+        },
+        {
+          "label": "Zakaz skretu w prawo",
+          "bbox": [1105, 742, 1126, 765]
+        }
+      ]
+    }
+  ]
+}

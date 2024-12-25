@@ -1,0 +1,33 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie238.jpg",
+      "objects": [
+        {
+          "label": "Sygnalizacja swietlna",
+          "bbox": [1488, 611, 1548, 674]
+        },
+        {
+          "label": "Strefa monitorowana",
+          "bbox": [1389, 720, 1415, 747]
+        },
+        {
+          "label": "Zakaz skretu w lewo",
+          "bbox": [1200, 736, 1221, 763]
+        },
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1187, 739, 1208, 766]
+        },
+        {
+          "label": "Kierunek ruchu",
+          "bbox": [1101, 725, 1117, 747]
+        },
+        {
+          "label": "Kierunek ruchu",
+          "bbox": [1088, 730, 1101, 740]
+        }
+      ]
+    }
+  ]
+}

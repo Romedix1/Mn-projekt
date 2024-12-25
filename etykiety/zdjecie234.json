@@ -1,0 +1,13 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie234.jpg",
+      "objects": [
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [1190, 710, 1228, 748]
+        }
+      ]
+    }
+  ]
+}

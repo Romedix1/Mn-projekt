@@ -1,0 +1,37 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie299.jpg",
+      "objects": [
+        {
+          "label": "Parking",
+          "bbox": [360, 697, 377, 717]
+        },
+        {
+          "label": "Parking",
+          "bbox": [437, 713, 458, 732]
+        },
+        {
+          "label": "Koniec ograniczenai predkosci",
+          "bbox": [606, 637, 654, 698]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [790, 731, 808, 757]
+        },
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [1431, 534, 1501, 603]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1453, 599, 1512, 643]
+        },
+        {
+          "label": "Przejscie dla pieszych ostrzegawczy",
+          "bbox": [1464, 639, 1505, 688]
+        }
+      ]
+    }
+  ]
+}

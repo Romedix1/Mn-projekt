@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie256.jpg",
+      "objects": [
+        {
+          "label": "Uwaga tramwaj",
+          "bbox": [1158, 736, 1187, 759]
+        },
+        {
+          "label": "Przebieg torow tramwajowych przez droge",
+          "bbox": [1156, 751, 1181, 776]
+        },
+        {
+          "label": "Zakaz wjazdu",
+          "bbox": [882, 733, 924, 768]
+        },
+        {
+          "label": "Nakaz jazdy po prawej stronie znaku",
+          "bbox": [168, 723, 215, 765]
+        }
+      ]
+    }
+  ]
+}

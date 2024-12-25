@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie218.jpg",
+      "objects": [
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1467, 505, 1553, 586]
+        },
+        {
+          "label": "Zakaz skretu w lewo",
+          "bbox": [1480, 579, 1556, 664]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1132, 741, 1154, 764]
+        },
+        {
+          "label": "Tablica kierunkowa",
+          "bbox": [992, 224, 1276, 360]
+        }
+      ]
+    }
+  ]
+}

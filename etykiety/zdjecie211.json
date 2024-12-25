@@ -1,0 +1,41 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie211.jpg",
+      "objects": [
+        {
+          "label": "Zakaz postoju",
+          "bbox": [1666, 663, 1695, 708]
+        },
+        {
+          "label": "Zakaz postoju",
+          "bbox": [1183, 740, 1210, 765]
+        },
+        {
+          "label": "Kierunek ruchu",
+          "bbox": [1246, 485, 1304, 531]
+        },
+        {
+          "label": "Kierunek ruchu",
+          "bbox": [1088, 495, 1145, 545]
+        },
+        {
+          "label": "Chodnik z droga rowerowa",
+          "bbox": [1361, 723, 1385, 755]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1663, 568, 1725, 648]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [696, 576, 783, 652]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1503, 690, 1524, 722]
+        }
+      ]
+    }
+  ]
+}

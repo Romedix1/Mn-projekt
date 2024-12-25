@@ -1,0 +1,33 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie232.jpg",
+      "objects": [
+        {
+          "label": "Kierunek ruchu",
+          "bbox": [1050, 547, 1087, 579]
+        },
+        {
+          "label": "Kierunek ruchu",
+          "bbox": [1186, 531, 1222, 567]
+        },
+        {
+          "label": "Kierunek ruchu",
+          "bbox": [1299, 515, 1347, 561]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1531, 704, 1554, 733]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1665, 612, 1713, 674]
+        },
+        {
+          "label": "Zakaz wjazdu",
+          "bbox": [886, 750, 907, 776]
+        }
+      ]
+    }
+  ]
+}

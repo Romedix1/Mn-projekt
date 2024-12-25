@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie280.jpg",
+      "objects": [
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1188, 642, 1234, 690]
+        },
+        {
+          "label": "Chodnik z droga rowerowa",
+          "bbox": [1294, 624, 1393, 719]
+        }
+      ]
+    }
+  ]
+}

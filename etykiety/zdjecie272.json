@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie272.jpg",
+      "objects": [
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1262, 396, 1361, 470]
+        },
+        {
+          "label": "Nakaz jazdy prosto",
+          "bbox": [1525, 635, 1565, 681]
+        },
+        {
+          "label": "Zakaz wjazdu ciezarowek",
+          "bbox": [1513, 575, 1552, 614]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie268.jpg",
+      "objects": [
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [615, 692, 640, 718]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [613, 715, 638, 730]
+        },
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [930, 715, 954, 734]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [929, 730, 954, 752]
+        }
+      ]
+    }
+  ]
+}

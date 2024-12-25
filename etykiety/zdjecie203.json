@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie203.jpg",
+      "objects": [
+        {
+          "label": "Zakaz wjazdu",
+          "bbox": [1393, 700, 1433, 746]
+        },
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1198, 748, 1216, 768]
+        }
+      ]
+    }
+  ]
+}

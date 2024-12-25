@@ -1,0 +1,41 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie210.jpg",
+      "objects": [
+        {
+          "label": "Sygnalizacja swietlna",
+          "bbox": [1294, 724, 1320, 749]
+        },
+        {
+          "label": "Droga z pierwszenstwem",
+          "bbox": [1251, 756, 1268, 778]
+        },
+        {
+          "label": "Nakaz jazdy po prawej stronie znaku",
+          "bbox": [1081, 757, 1100, 780]
+        },
+        {
+          "label": "Kierunek ruchu",
+          "bbox": [1193, 719, 1209, 736]
+        },
+        {
+          "label": "Kierunek ruchu",
+          "bbox": [1154, 720, 1169, 735]
+        },
+        {
+          "label": "Kierunek pasow",
+          "bbox": [1293, 741, 1324, 769]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1105, 762, 1119, 779]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1231, 763, 1250, 782]
+        }
+      ]
+    }
+  ]
+}

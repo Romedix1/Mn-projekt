@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie296.jpg",
+      "objects": [
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [1317, 630, 1387, 708]
+        },
+        {
+          "label": "Chodnik z droga rowerowa",
+          "bbox": [1200, 685, 1238, 727]
+        }
+      ]
+    }
+  ]
+}

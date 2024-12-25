@@ -1,0 +1,21 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie239.jpg",
+      "objects": [
+        {
+          "label": "Zakaz skretu w lewo",
+          "bbox": [1122, 749, 1136, 764]
+        },
+        {
+          "label": "Kierunek pasow",
+          "bbox": [1120, 757, 1145, 772]
+        },
+        {
+          "label": "Zakaz postoju",
+          "bbox": [1429, 651, 1494, 715]
+        }
+      ]
+    }
+  ]
+}

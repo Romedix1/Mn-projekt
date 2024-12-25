@@ -1,0 +1,37 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie266.jpg",
+      "objects": [
+        {
+          "label": "Parking",
+          "bbox": [665, 728, 693, 754]
+        },
+        {
+          "label": "Parking",
+          "bbox": [668, 701, 693, 722]
+        },
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [687, 720, 709, 739]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [684, 738, 706, 756]
+        },
+        {
+          "label": "Ustap pierwszenstwa",
+          "bbox": [969, 725, 994, 747]
+        },
+        {
+          "label": "Przejscie dla pieszych",
+          "bbox": [970, 743, 988, 760]
+        },
+        {
+          "label": "Uwaga tramwaj",
+          "bbox": [1119, 696, 1176, 743]
+        }
+      ]
+    }
+  ]
+}

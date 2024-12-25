@@ -1,0 +1,13 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie300.jpg",
+      "objects": [
+        {
+          "label": "Uwaga dzieci",
+          "bbox": [925, 630, 958, 660]
+        }
+      ]
+    }
+  ]
+}

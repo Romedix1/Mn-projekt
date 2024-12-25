@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "image_id": "zdjecie207.jpg",
+      "objects": [
+        {
+          "label": "Kierunek ruchu",
+          "bbox": [1110, 650, 1142, 672]
+        },
+        {
+          "label": "Kierunek ruchu",
+          "bbox": [1177, 649, 1211, 677]
+        }
+      ]
+    }
+  ]
+}
