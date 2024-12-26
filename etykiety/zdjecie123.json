@@ -1,7 +1,7 @@
 {
   "images": [
     {
-      "image_id": "zdjecie123.jpg",
+      "image_id": "zdjecie123.png",
       "objects": [
         {
           "label": "Parking",
