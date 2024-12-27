@@ -4,11 +4,11 @@
       "image_id": "zdjecie112.png",
       "objects": [
         {
-          "label": "Uwaga tramwaj",
+          "label": "Przejazd tramwajowy",
           "bbox": [698, 763, 716, 780]
         },
         {
-          "label": "Uwaga tramwaj",
+          "label": "Przejazd tramwajowy",
           "bbox": [878, 774, 896, 790]
         }
       ]

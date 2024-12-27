@@ -1,14 +1,10 @@
 import os
 import json
-
 import numpy as np
 import matplotlib.pyplot as plt 
-
 from PIL import Image
-
 import torch
 import torchvision.transforms as transforms
-
 from matplotlib.patches import Rectangle
 
 class ImageDataset(torch.utils.data.Dataset):

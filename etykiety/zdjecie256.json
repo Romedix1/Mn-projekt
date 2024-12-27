@@ -4,7 +4,7 @@
       "image_id": "zdjecie256.png",
       "objects": [
         {
-          "label": "Uwaga tramwaj",
+          "label": "Przejazd tramwajowy",
           "bbox": [1158, 736, 1187, 759]
         },
         {

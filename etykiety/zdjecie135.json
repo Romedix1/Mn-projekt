@@ -4,7 +4,7 @@
       "image_id": "zdjecie135.png",
       "objects": [
         {
-          "label": "Droga dla pieszych",
+          "label": "Chodnik",
           "bbox": [233, 558, 268, 597]
         },
         {
