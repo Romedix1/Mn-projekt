@@ -5,8 +5,10 @@ import os
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
+from torchvision.models.detection import MaskRCNN_ResNet50_FPN_Weights
 
-model = models.detection.maskrcnn_resnet50_fpn(pretrained=True)
+weights = MaskRCNN_ResNet50_FPN_Weights.DEFAULT
+model = models.detection.maskrcnn_resnet50_fpn(weights=weights)
 model.eval()
 
 random_index = np.random.randint(0, len(os.listdir('./zdjecia')))

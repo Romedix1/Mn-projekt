@@ -5,10 +5,17 @@ import os
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
-from torchvision.models.detection import detr_resnet50, DetrResNet50_Weights
+from torchvision.models.detection.faster_rcnn import FastRCNNPredictor
+from DataSet import dataset, label_map
 
-weights = DetrResNet50_Weights.COCO_V1
-model = models.detection.detr_resnet50(weights=weights)
+num_classes = len(label_map) + 1
+
+model = models.detection.fasterrcnn_resnet50_fpn(weights=None)
+
+in_features = model.roi_heads.box_predictor.cls_score.in_features
+model.roi_heads.box_predictor = FastRCNNPredictor(in_features, num_classes)
+
+model.load_state_dict(torch.load('epochs2.pth'))
 model.eval()
 
 random_index = np.random.randint(0, len(os.listdir('./zdjecia')))

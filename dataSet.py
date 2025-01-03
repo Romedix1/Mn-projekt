@@ -1,11 +1,11 @@
 import os
 import json
 import numpy as np
-import matplotlib.pyplot as plt 
 from PIL import Image
 import torch
 import torchvision.transforms as transforms
-from matplotlib.patches import Rectangle
+import torchvision
+from Draw import draw
 
 class ImageDataset(torch.utils.data.Dataset):
     def __init__(self, img_path, label_path, transform=None):
@@ -13,6 +13,7 @@ class ImageDataset(torch.utils.data.Dataset):
         self.label_path = label_path
         self.images = os.listdir(img_path)
         self.transform = transform
+        self.label_map = None
 
     #wczytanie pliku json z etykietami
     def load_annotations(self, image_name):
@@ -41,27 +42,40 @@ class ImageDataset(torch.utils.data.Dataset):
 
         annotations = self.load_annotations(image_name)
 
-        return image, annotations, image_name
+        boxes = []
+        labels = []
 
-#zaznacza na obrazie etykiety i wyswietla je z podpisem
-def draw(image, annotations):
-    fig, x = plt.subplots(1, figsize=(8, 6))
+        for annotation in annotations:
+            bbox = annotation['bbox']
+            label = annotation['label']
+            if label in self.label_map:
+                boxes.append(bbox)
+                labels.append(self.label_map[label])
 
-    image = image.permute(1, 2, 0).numpy()
+        boxes = torch.as_tensor(boxes, dtype=torch.float32)
+        labels = torch.as_tensor(labels, dtype=torch.int64)
 
-    x.imshow(image)
+        target = {
+            'boxes': boxes,
+            'labels': labels,
+        }
 
-    for annotation in annotations:
-        label = annotation['label']
-        bbox = annotation['bbox']
-        x_min, y_min, x_max, y_max = bbox
+        return image, target
 
-        rect = Rectangle((x_min, y_min), x_max - x_min, y_max - y_min, linewidth=1, edgecolor='r', facecolor='none')
-        x.add_patch(rect)
-        x.text(x_min, y_min, label, color='red', fontsize=7, bbox=dict(facecolor='yellow', alpha=0.4))
+def create_label_map(label_path):
+    label_set = set()
 
-    plt.show()
+    for label_file in os.listdir(label_path):
+        if label_file.endswith(".json"):
+            with open(os.path.join(label_path, label_file), 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                for image_data in data.get('images', []):
+                    for obj in image_data.get('objects', []):
+                        label_set.add(obj['label'])
 
+    label_map = {label: idx + 1 for idx, label in enumerate(sorted(label_set))}
+    # print("Label map:", label_map)
+    return label_map
 
 transform = transforms.Compose([
     transforms.Resize((1080, 1920)),
@@ -71,14 +85,17 @@ transform = transforms.Compose([
 img_path = './zdjecia'
 label_path = './etykiety'
 
-dataset = ImageDataset(img_path, label_path, transform=transform)
+label_map = create_label_map(label_path)
 
-print('Liczba obrazow w zbiorze:', len(dataset))
+dataset = ImageDataset(img_path=img_path, label_path=label_path, transform=transform)
+
+dataset.label_map = label_map
+
+# print('Liczba obrazow w zbiorze:', len(dataset))
 
 random_index = np.random.randint(0, len(dataset))
-image, annotations, image_name = dataset[random_index]
+image, annotations = dataset[4]
 
-print("Obraz nr:", random_index)
-print("Etykiety dla obrazu:", annotations)
+# print("Obraz nr:", random_index)
 
-draw(image, annotations)
+# draw(image, annotations, label_map)

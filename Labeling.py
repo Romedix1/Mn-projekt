@@ -1,6 +1,6 @@
 import cv2
 
-img_path = "./zdjecia/zdjecie1.png"
+img_path = "./zdjecia/zdjecie5.png"
 img = cv2.imread(img_path)
     
 resized_img = cv2.resize(img, (1920, 1080))
