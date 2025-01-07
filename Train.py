@@ -18,21 +18,24 @@ model.to(device)
 
 optimizer = optim.SGD(model.parameters(), lr=0.005, momentum=0.9, weight_decay=0.0005)
 
-num_epochs = 3
+num_epochs = 2
 
 model.train()
-for epoch in range(4):
+for epoch in range(num_epochs):
     for images, targets in data_loader:
-        images = list(img.to(device) for img in images)
-        targets = [{k: v.to(device) for k, v in t.items()} for t in targets]
+        try:
+            images = list(img.to(device) for img in images)
+            targets = [{k: v.to(device) for k, v in t.items()} for t in targets]
 
-        loss_dict = model(images, targets)
-        losses = sum(loss for loss in loss_dict.values())
+            loss_dict = model(images, targets)
+            losses = sum(loss for loss in loss_dict.values())
 
-        optimizer.zero_grad()
-        losses.backward()
-        optimizer.step()
+            optimizer.zero_grad()
+            losses.backward()
+            optimizer.step()
+        except AssertionError as e:
+            print(f'Element pomijany z powodu bledu: {e}')
 
     print(f"Epoka {epoch + 1} zakonczona.")
 
-torch.save(model.state_dict(), 'epochs3.pth')
+torch.save(model.state_dict(), 'epochs2.pth')

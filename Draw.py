@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle
 
-#zaznacza na obrazie etykiety i wyswietla je z podpisem (model przetrenowany)
+#zaznacza na obrazie etykiety i wyswietla je z podpisem
 def draw(image, annotations, label_map):
     fig, x = plt.subplots(1, figsize=(8, 6))
 

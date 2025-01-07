@@ -8,6 +8,7 @@ import torchvision
 from Draw import draw
 
 class ImageDataset(torch.utils.data.Dataset):
+    #konstruktor
     def __init__(self, img_path, label_path, transform=None):
         self.img_path = img_path
         self.label_path = label_path
@@ -31,7 +32,7 @@ class ImageDataset(torch.utils.data.Dataset):
     def __len__(self):
         return len(self.images)
 
-    #pobiera obraz o podanym indexie i zwraca obraz, etykiety i nazwe
+    #pobiera obraz o podanym indexie i zwraca obraz, etykiety
     def __getitem__(self, index):
         image_name = self.images[index]
         image_path = os.path.join(self.img_path, image_name)
@@ -62,6 +63,7 @@ class ImageDataset(torch.utils.data.Dataset):
 
         return image, target
 
+#tworzy liste unikatowych etykiet
 def create_label_map(label_path):
     label_set = set()
 
@@ -91,7 +93,7 @@ dataset = ImageDataset(img_path=img_path, label_path=label_path, transform=trans
 
 dataset.label_map = label_map
 
-# print('Liczba obrazow w zbiorze:', len(dataset))
+print('Liczba obrazow w zbiorze:', len(dataset))
 
 random_index = np.random.randint(0, len(dataset))
 image, annotations = dataset[4]

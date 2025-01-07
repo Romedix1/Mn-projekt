@@ -5,11 +5,11 @@
         "objects": [
           {
             "label": "Nakaz jazdy prosto",
-            "bbox": [1040, 612, 1090, 664]
+            "bbox": [1040, 614, 1089, 672]
           },
           {
             "label": "Strefa ruchu",
-            "bbox": [1037, 663, 1090, 692]
+            "bbox": [1035, 663, 1092, 693]
           }
         ]
       }
