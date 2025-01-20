@@ -15,7 +15,10 @@ model = models.detection.fasterrcnn_resnet50_fpn(weights=None)
 in_features = model.roi_heads.box_predictor.cls_score.in_features
 model.roi_heads.box_predictor = FastRCNNPredictor(in_features, num_classes)
 
-model.load_state_dict(torch.load('epochs2.pth'))
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+model.load_state_dict(torch.load('./epochs20.pth', map_location=device))
+model.to(device)
+
 model.eval()
 
 random_index = np.random.randint(0, len(os.listdir('./zdjecia')))
